@@ -1,0 +1,1032 @@
+[
+    {
+        "name": "Cordeiro cong.",
+        "temp_conservacao": -18,
+        "umidade_relativa": 90,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0.3,
+        "calor_latente": 46,
+        "ponto_congel": -1.7,
+        "calor_resp": 0
+    },
+    {
+        "name": "Carne bov. magra fresca",
+        "temp_conservacao": -1,
+        "umidade_relativa": 90,
+        "calor_especif_antes_congel": 0.77,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": -1.7,
+        "calor_resp": 0
+    },
+    {
+        "name": "Cordeiro fresco",
+        "temp_conservacao": 0.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.67,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Figado",
+        "temp_conservacao": 0.5,
+        "umidade_relativa": 82.5,
+        "calor_especif_antes_congel": 0.72,
+        "calor_especif_pos_congel": 0.4,
+        "calor_latente": 52,
+        "ponto_congel": -1.7,
+        "calor_resp": 0
+    },
+    {
+        "name": "Toucinho",
+        "temp_conservacao": 7,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.52,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Lombo",
+        "temp_conservacao": 0.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.68,
+        "calor_especif_pos_congel": 0.38,
+        "calor_latente": 48,
+        "ponto_congel": -2.8,
+        "calor_resp": 0
+    },
+    {
+        "name": "Porco defum.",
+        "temp_conservacao": 0,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.6,
+        "calor_especif_pos_congel": 0.32,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Porco cong.",
+        "temp_conservacao": -18,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0.38,
+        "calor_latente": 48,
+        "ponto_congel": -2.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Porco fresco",
+        "temp_conservacao": 0.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.68,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Nov. gordo cong.",
+        "temp_conservacao": -15,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0.35,
+        "calor_latente": 44,
+        "ponto_congel": -2.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Nov. gordo fres.",
+        "temp_conservacao": 0,
+        "umidade_relativa": 90,
+        "calor_especif_antes_congel": 0.6,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Nov. magro cong.",
+        "temp_conservacao": -15,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0.4,
+        "calor_latente": 56,
+        "ponto_congel": -1.7,
+        "calor_resp": 0
+    },
+    {
+        "name": "Nov. magro fres.",
+        "temp_conservacao": 0,
+        "umidade_relativa": 90,
+        "calor_especif_antes_congel": 0.77,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Nov. limpo",
+        "temp_conservacao": 0,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.23,
+        "calor_especif_pos_congel": 0.23,
+        "calor_latente": 8,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Bucho",
+        "temp_conservacao": 3,
+        "umidade_relativa": 85,
+        "calor_especif_antes_congel": 0.5,
+        "calor_especif_pos_congel": 0.3,
+        "calor_latente": 14,
+        "ponto_congel": 0,
+        "calor_resp":0
+    },
+    {
+        "name": "Aves cong.",
+        "temp_conservacao": -29,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0.37,
+        "calor_latente": 59,
+        "ponto_congel": -2.8,
+        "calor_resp": 0
+    },
+    {
+        "name": "Aves frescas",
+        "temp_conservacao": 0,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.79,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Presunto",
+        "temp_conservacao": 0.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.68,
+        "calor_especif_pos_congel": 0.56,
+        "calor_latente": 48,
+        "ponto_congel": -3.9,
+        "calor_resp": 0
+    },
+    {
+        "name": "Salame defum.",
+        "temp_conservacao": 5.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.86,
+        "calor_especif_pos_congel": 0.56,
+        "calor_latente": 48,
+        "ponto_congel": -2.8,
+        "calor_resp": 0
+    },
+    {
+        "name": "Salame seco",
+        "temp_conservacao": 0,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.39,
+        "calor_especif_pos_congel": 0.56,
+        "calor_latente": 52,
+        "ponto_congel": -3.3,
+        "calor_resp":0
+    },
+    {
+        "name": "Salame fresco",
+        "temp_conservacao": 0,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.89,
+        "calor_especif_pos_congel": 0.56,
+        "calor_latente": 52,
+        "ponto_congel": -3.3,
+        "calor_resp":0
+    },
+    {
+        "name": "Bezerro",
+        "temp_conservacao": 0.5,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.71,
+        "calor_especif_pos_congel": 0.39,
+        "calor_latente": 51,
+        "ponto_congel": -1.7,
+        "calor_resp":0
+    },
+    {
+        "name": "Pepino",
+        "temp_conservacao": 8.5,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.97,
+        "calor_especif_pos_congel": 0.49,
+        "calor_latente": 76,
+        "ponto_congel": -0.8,
+        "calor_resp": 0
+    },
+        {
+        "name": "Carne Bov. Gorda Cong.",
+        "temp_conservacao": -18,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": "-",
+        "calor_especif_pos_congel": 0.35,
+        "calor_latente": 44,
+        "ponto_congel": -2.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Carne Bov. Gorda Fresca",
+        "temp_conservacao": -1,
+        "umidade_relativa": 90,
+        "calor_especif_antes_congel": 0.6,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Carne Bov. Magra Cong.",
+        "temp_conservacao": -18,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": "-",
+        "calor_especif_pos_congel": 0.4,
+        "calor_latente": 56,
+        "ponto_congel": -1.7,
+        "calor_resp": 0
+    },
+    {
+        "name": "Carne Bov. Magra Fresca",
+        "temp_conservacao": -1,
+        "umidade_relativa": 90,
+        "calor_especif_antes_congel": 0.77,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Aves Congeladas",
+        "temp_conservacao": -18,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": "-",
+        "calor_especif_pos_congel": 0.37,
+        "calor_latente": 59,
+        "ponto_congel": -2.8,
+        "calor_resp": 0
+    },
+    {
+        "name": "Aves Frescas",
+        "temp_conservacao": -1,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.79,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Presunto",
+        "temp_conservacao": 0.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.68,
+        "calor_especif_pos_congel": 0.38,
+        "calor_latente": 48,
+        "ponto_congel": -2.8,
+        "calor_resp": 0
+    },
+    {
+        "name": "Salame Defumado",
+        "temp_conservacao": 5.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.86,
+        "calor_especif_pos_congel": 0.56,
+        "calor_latente": 48,
+        "ponto_congel": -3.9,
+        "calor_resp": 0
+    },
+    {
+        "name": "Salame Seco",
+        "temp_conservacao": 0,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.39,
+        "calor_especif_pos_congel": 0.56,
+        "calor_latente": 52,
+        "ponto_congel": -3.3,
+        "calor_resp": 0
+    },
+    {
+        "name": "Salame",
+        "temp_conservacao": 0,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.89,
+        "calor_especif_pos_congel": 0.56,
+        "calor_latente": 52,
+        "ponto_congel": -3.3,
+        "calor_resp": 0
+    },
+    {
+        "name": "Merlusa",
+        "temp_conservacao": 0.5,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.9,
+        "calor_especif_pos_congel": 0.49,
+        "calor_latente": 66,
+        "ponto_congel": -2.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Peixe Seco",
+        "temp_conservacao": 7,
+        "umidade_relativa": 55,
+        "calor_especif_antes_congel": 56,
+        "calor_especif_pos_congel": 0.34,
+        "calor_latente": 36,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Peixe Gordo Congelado",
+        "temp_conservacao": -18,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": "-",
+        "calor_especif_pos_congel": 0.38,
+        "calor_latente": 50,
+        "ponto_congel": -2.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Peixe Gordo",
+        "temp_conservacao": -1.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.7,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Peixe Magro Congelado",
+        "temp_conservacao": -18,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": "-",
+        "calor_especif_pos_congel": 0.45,
+        "calor_latente": 68,
+        "ponto_congel": -1.7,
+        "calor_resp": 0
+    },
+    {
+        "name": "Peixe Magro Fresco",
+        "temp_conservacao": -1,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.86,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Berinjela",
+        "temp_conservacao": 8.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.94,
+        "calor_especif_pos_congel": 0.48,
+        "calor_latente": 73,
+        "ponto_congel": -0.9,
+        "calor_resp": 0
+    },
+    {
+        "name": "Pimentao",
+        "temp_conservacao": 8.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.94,
+        "calor_especif_pos_congel": 0.47,
+        "calor_latente": 73,
+        "ponto_congel": -1,
+        "calor_resp": 0.65
+    },
+    {
+        "name": "Cervejas",
+        "temp_conservacao": 2.5,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.92,
+        "calor_especif_pos_congel": 0.47,
+        "calor_latente": 72,
+        "ponto_congel": -2.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Feijao Fresco",
+        "temp_conservacao": 6,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.91,
+        "calor_especif_pos_congel": 0.47,
+        "calor_latente": 71,
+        "ponto_congel": -1.3,
+        "calor_resp": 1
+    },
+    {
+        "name": "Doces",
+        "temp_conservacao": 2,
+        "umidade_relativa": 82.5,
+        "calor_especif_antes_congel": 0.7,
+        "calor_especif_pos_congel": 0.34,
+        "calor_latente": 30,
+        "ponto_congel": -1.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Batata",
+        "temp_conservacao": 6.65,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.82,
+        "calor_especif_pos_congel": 0.43,
+        "calor_latente": 62,
+        "ponto_congel": -1.7,
+        "calor_resp": 0.425
+    },
+    {
+        "name": "Lixos",
+        "temp_conservacao": 1.5,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.85,
+        "calor_especif_pos_congel": 0.45,
+        "calor_latente": 75,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Melancia",
+        "temp_conservacao": 3,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.97,
+        "calor_especif_pos_congel": 0.48,
+        "calor_latente": 73,
+        "ponto_congel": -1.6,
+        "calor_resp": 0
+    },
+    {
+        "name": "Banana",
+        "temp_conservacao": 15,
+        "umidade_relativa": 90,
+        "calor_especif_antes_congel": 0.8,
+        "calor_especif_pos_congel": 0.42,
+        "calor_latente": 60,
+        "ponto_congel": -2.2,
+        "calor_resp": 1.25
+    },
+    {
+        "name": "Batata Doce",
+        "temp_conservacao": 14,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.75,
+        "calor_especif_pos_congel": 0.4,
+        "calor_latente": 54,
+        "ponto_congel": -1.9,
+        "calor_resp": 0.25
+    },
+    {
+        "name": "Manga",
+        "temp_conservacao": 5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.09,
+        "calor_especif_pos_congel": 0.46,
+        "calor_latente": 74,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Margarina",
+        "temp_conservacao": 0.85,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.32,
+        "calor_especif_pos_congel": 0.25,
+        "calor_latente": 12,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Oleo",
+        "temp_conservacao": 1.5,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Abacate",
+        "temp_conservacao": 4,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.91,
+        "calor_especif_pos_congel": 0.49,
+        "calor_latente": 76,
+        "ponto_congel": -2.7,
+        "calor_resp": 7.35
+    },
+    {
+        "name": "Framboesa",
+        "temp_conservacao": 0.25,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.85,
+        "calor_especif_pos_congel": 0.45,
+        "calor_latente": 68,
+        "ponto_congel": -1,
+        "calor_resp": 2.15
+    },
+    {
+        "name": "Polpas",
+        "temp_conservacao": 0.25,
+        "umidade_relativa": 82.5,
+        "calor_especif_antes_congel": 0.88,
+        "calor_especif_pos_congel": 0.45,
+        "calor_latente": 68,
+        "ponto_congel": -2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Leite A_B",
+        "temp_conservacao": 0.25,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.93,
+        "calor_especif_pos_congel": 0.49,
+        "calor_latente": 69,
+        "ponto_congel": -0.5,
+        "calor_resp": 0
+    },
+    {
+        "name": "Nata",
+        "temp_conservacao": 0.25,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.85,
+        "calor_especif_pos_congel": 0.4,
+        "calor_latente": 50,
+        "ponto_congel": -2.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Beterraba",
+        "temp_conservacao": 0,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.9,
+        "calor_especif_pos_congel": 0.46,
+        "calor_latente": 70,
+        "ponto_congel": -0.5,
+        "calor_resp": 0.375
+    },
+    {
+        "name": "Brocolis",
+        "temp_conservacao": 0,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.92,
+        "calor_especif_pos_congel": 0.47,
+        "calor_latente": 72,
+        "ponto_congel": -1.6,
+        "calor_resp": 3.85
+    },
+    {
+        "name": "Cenoura Fresca",
+        "temp_conservacao": 0,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.9,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0.3
+    },
+    {
+        "name": "Couve-Flor",
+        "temp_conservacao": 0,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.93,
+        "calor_especif_pos_congel": 0.47,
+        "calor_latente": 73,
+        "ponto_congel": -1,
+        "calor_resp": 2.125
+    },
+    {
+        "name": "Repolho",
+        "temp_conservacao": 0,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.94,
+        "calor_especif_pos_congel": 0.47,
+        "calor_latente": 73,
+        "ponto_congel": -0.4,
+        "calor_resp": 0.25
+    },
+    {
+        "name": "Repolho Roxo",
+        "temp_conservacao": 0,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.89,
+        "calor_especif_pos_congel": 0.46,
+        "calor_latente": 69,
+        "ponto_congel": -0.7,
+        "calor_resp": 0
+    },
+    {
+        "name": "Cebola",
+        "temp_conservacao": 0,
+        "umidade_relativa": 72.5,
+        "calor_especif_antes_congel": 0.9,
+        "calor_especif_pos_congel": 0.46,
+        "calor_latente": 69,
+        "ponto_congel": -1,
+        "calor_resp": 0.25
+    },
+    {
+        "name": "Alface Americana",
+        "temp_conservacao": 0,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.96,
+        "calor_especif_pos_congel": 0.48,
+        "calor_latente": 76,
+        "ponto_congel": -0.4,
+        "calor_resp": 0.325
+    },
+    {
+        "name": "Ervilha Fresca",
+        "temp_conservacao": 0,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.79,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 4.1
+    },
+    {
+        "name": "Espinafre Fresco",
+        "temp_conservacao": 0,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.94,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 1.1
+    },
+    {
+        "name": "Levedura_Fermento",
+        "temp_conservacao": 0,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.77,
+        "calor_especif_pos_congel": 0.41,
+        "calor_latente": 57,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Ovos Frescos",
+        "temp_conservacao": 0,
+        "umidade_relativa": 82.5,
+        "calor_especif_antes_congel": 0.76,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Laranja",
+        "temp_conservacao": 0.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.9,
+        "calor_especif_pos_congel": 0.46,
+        "calor_latente": 69,
+        "ponto_congel": -2.2,
+        "calor_resp": 0.11
+    },
+    {
+        "name": "Limao",
+        "temp_conservacao": 7.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.92,
+        "calor_especif_pos_congel": 0.46,
+        "calor_latente": 71,
+        "ponto_congel": -2.2,
+        "calor_resp": 0.115
+    },
+    {
+        "name": "Tangerina",
+        "temp_conservacao": 1.65,
+        "umidade_relativa": 92.5,
+        "calor_especif_antes_congel": 0.93,
+        "calor_especif_pos_congel": 0.51,
+        "calor_latente": 70,
+        "ponto_congel": -2.2,
+        "calor_resp": 0.45
+    },
+    {
+        "name": "Figo Seco",
+        "temp_conservacao": 2,
+        "umidade_relativa": 55,
+        "calor_especif_antes_congel": 0.39,
+        "calor_especif_pos_congel": 0.27,
+        "calor_latente": 19,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Melao",
+        "temp_conservacao": 2,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.84,
+        "calor_especif_pos_congel": 0.48,
+        "calor_latente": 73,
+        "ponto_congel": -1.7,
+        "calor_resp": 0.275
+    },
+    {
+        "name": "Manteiga",
+        "temp_conservacao": 2.5,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.64,
+        "calor_especif_pos_congel": 0.34,
+        "calor_latente": 8,
+        "ponto_congel": -1,
+        "calor_resp": 0
+    },
+    {
+        "name": "Laticinio",
+        "temp_conservacao": 3.5,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.85,
+        "calor_especif_pos_congel": 0.42,
+        "calor_latente": 64,
+        "ponto_congel": -0.6,
+        "calor_resp": 0
+    },
+    {
+        "name": "Agua",
+        "temp_conservacao": 0,
+        "umidade_relativa": 72.5,
+        "calor_especif_antes_congel": 1,
+        "calor_especif_pos_congel": 0.5,
+        "calor_latente": 80,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Farinhas",
+        "temp_conservacao": 0,
+        "umidade_relativa": 52.5,
+        "calor_especif_antes_congel": 0.38,
+        "calor_especif_pos_congel": 0.28,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Mel",
+        "temp_conservacao": 0,
+        "umidade_relativa": 65,
+        "calor_especif_antes_congel": 0.35,
+        "calor_especif_pos_congel": 0.26,
+        "calor_latente": 14,
+        "ponto_congel": 0,
+        "calor_resp": 0.195
+    },
+    {
+        "name": "Damasco",
+        "temp_conservacao": -0.25,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.88,
+        "calor_especif_pos_congel": 0.4,
+        "calor_latente": 68,
+        "ponto_congel": -2.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Morango Fresco",
+        "temp_conservacao": -0.25,
+        "umidade_relativa": 70,
+        "calor_especif_antes_congel": 0.92,
+        "calor_especif_pos_congel": 0,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Maça",
+        "temp_conservacao": -0.25,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.86,
+        "calor_especif_pos_congel": 0.45,
+        "calor_latente": 67,
+        "ponto_congel": -2,
+        "calor_resp": 0.125
+    },
+    {
+        "name": "Amora",
+        "temp_conservacao": -0.25,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.88,
+        "calor_especif_pos_congel": 0.46,
+        "calor_latente": 68,
+        "ponto_congel": -1.7,
+        "calor_resp": 0
+    },
+    {
+        "name": "Pera",
+        "temp_conservacao": -0.25,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.86,
+        "calor_especif_pos_congel": 0.45,
+        "calor_latente": 66,
+        "ponto_congel": -2,
+        "calor_resp": 0.105
+    },
+    {
+        "name": "Ameixas",
+        "temp_conservacao": -0.25,
+        "umidade_relativa": 82.5,
+        "calor_especif_antes_congel": 0.88,
+        "calor_especif_pos_congel": 0.45,
+        "calor_latente": 68,
+        "ponto_congel": -2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Uva Italia",
+        "temp_conservacao": -0.25,
+        "umidade_relativa": 82.5,
+        "calor_especif_antes_congel": 0.9,
+        "calor_especif_pos_congel": 0.46,
+        "calor_latente": 70,
+        "ponto_congel": -3.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Uva Niagara",
+        "temp_conservacao": -0.25,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.86,
+        "calor_especif_pos_congel": 0.44,
+        "calor_latente": 64,
+        "ponto_congel": -1.7,
+        "calor_resp": 0.115
+    },
+    {
+        "name": "Trigo Verde",
+        "temp_conservacao": -0.25,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.79,
+        "calor_especif_pos_congel": 0.42,
+        "calor_latente": 59,
+        "ponto_congel": -1.7,
+        "calor_resp": 2.55
+    },
+    {
+        "name": "Tomate Maduro",
+        "temp_conservacao": -0.25,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.95,
+        "calor_especif_pos_congel": 0.48,
+        "calor_latente": 74,
+        "ponto_congel": -1,
+        "calor_resp": 1.75
+    },
+    {
+        "name": "Tomate Verde",
+        "temp_conservacao": -0.25,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.95,
+        "calor_especif_pos_congel": 0.48,
+        "calor_latente": 74,
+        "ponto_congel": -1,
+        "calor_resp": 0.85
+    },
+    {
+        "name": "Cereja Congelada",
+        "temp_conservacao": -0.5,
+        "umidade_relativa": 90,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0.45,
+        "calor_latente": 68,
+        "ponto_congel": -3.3,
+        "calor_resp": 0
+    },
+    {
+        "name": "Figo Fresco",
+        "temp_conservacao": -0.5,
+        "umidade_relativa": 88,
+        "calor_especif_antes_congel": 0.82,
+        "calor_especif_pos_congel": 0.43,
+        "calor_latente": 62,
+        "ponto_congel": -2.7,
+        "calor_resp": 0
+    },
+    {
+        "name": "Caqui",
+        "temp_conservacao": -0.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.84,
+        "calor_especif_pos_congel": 0.43,
+        "calor_latente": 62,
+        "ponto_congel": -2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Pessego Fresco",
+        "temp_conservacao": -7.5,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0.46,
+        "calor_especif_pos_congel": 0.46,
+        "calor_latente": 70,
+        "ponto_congel": -2.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Morango Cong.",
+        "temp_conservacao": -9,
+        "umidade_relativa": 90,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0.47,
+        "calor_latente": 72,
+        "ponto_congel": -1.2,
+        "calor_resp": 0
+    },
+    {
+        "name": "Acerola Congelada",
+        "temp_conservacao": -9,
+        "umidade_relativa": 90,
+        "calor_especif_antes_congel": 0.87,
+        "calor_especif_pos_congel": 0.45,
+        "calor_latente": 64,
+        "ponto_congel": -1.7,
+        "calor_resp": 0
+    },
+    {
+        "name": "Cenoura Cong.",
+        "temp_conservacao": -9,
+        "umidade_relativa": 82.5,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0.46,
+        "calor_latente": 70,
+        "ponto_congel": -1.3,
+        "calor_resp": 0
+    },
+    {
+        "name": "Ervilha Congelada",
+        "temp_conservacao": -9,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0.42,
+        "calor_latente": 59,
+        "ponto_congel": -1,
+        "calor_resp": 0
+    },
+    {
+        "name": "Espinafre Cong.",
+        "temp_conservacao": -9,
+        "umidade_relativa": 87.5,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0.48,
+        "calor_latente": 73,
+        "ponto_congel": -0.9,
+        "calor_resp": 0
+    },
+    {
+        "name": "Pao Congelado",
+        "temp_conservacao": -9,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.7,
+        "calor_especif_pos_congel": 0.34,
+        "calor_latente": 27.5,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Ovo Liq. Fresco",
+        "temp_conservacao": -9,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0,
+        "calor_especif_pos_congel": 0.4,
+        "calor_latente": 56,
+        "ponto_congel": -2.8,
+        "calor_resp": 0
+    },
+    {
+        "name": "Sangue",
+        "temp_conservacao": -10,
+        "umidade_relativa": 0,
+        "calor_especif_antes_congel": 0.92,
+        "calor_especif_pos_congel": 0.45,
+        "calor_latente": 0,
+        "ponto_congel": 0,
+        "calor_resp": 0
+    },
+    {
+        "name": "Sorvete",
+        "temp_conservacao": -11.5,
+        "umidade_relativa": 67.5,
+        "calor_especif_antes_congel": 0.78,
+        "calor_especif_pos_congel": 0.45,
+        "calor_latente": 53,
+        "ponto_congel": -2.8,
+        "calor_resp": 0
+    }
+]
