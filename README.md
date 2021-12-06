@@ -9,3 +9,8 @@ Ferramenta para projeto de câmaras frias levando em consideração as dimensõe
 - Carga térmica devido a pessoas
 - Carga térmica devido a embalagem
 - Carga térmica devido a iluminação
+
+Como usar:
+
+- Alterar os parâmetros no arquivo ParametrosProjeto.py
+- Executar o script DimensionamentoCamaraFrigorifica.py
