@@ -1,7 +1,14 @@
 from ParametrosProjeto import *
+from CondicoesCamara import *
+
 
 print(f'''Calculo da carga térmica para uma câmara fria para armazenamento de
 {condicoes.qtd_total} kg de {produto.name} com movimentação diária de {0.2 * condicoes.qtd_total} kg ''')
+
+# Dimensionando a espessura do isolante térmico
+
+x = ((camara.temp_ext - camara.temp_int)/condicoes.q_a)*iso.k
+iso.length = escolher_espessura(iso.length, x)
 
 # Calculo da Resistencia Térmica Total
 
@@ -27,7 +34,7 @@ print(f'\nCarga térmica devido a transmissão de calor: Qtm = {Q_tm:.2f} [kcal/
 
 # Calculo da carga térmica devido ao produto
 
-Q_prod = condicoes.qtd_total * 0.2 * (produto.calor_especif_antes_congel *
+Q_prod = condicoes.qtd_total * mov_prod * (produto.calor_especif_antes_congel *
                                       (condicoes.temp_entrada - produto.temp_conservacao) +
                                       produto.calor_latente + produto.calor_especif_pos_congel * (
                                               produto.temp_conservacao - produto.ponto_congel)) + \
@@ -47,7 +54,7 @@ print(f'\nCarga térmica devido a pessoas: Qpes = {Q_pes:.2f} [kcal/dia]')
 
 # Calculo de carga térmica devido a embalagem
 
-Q_emb = emb.massa_diaria * emb.Cp * (emb.Temp_inicial - produto.temp_conservacao)
+Q_emb = emb.massa_diaria * emb.cp * (emb.temp_entrada - produto.temp_conservacao)
 print(f'\nCarga térmica devido a embalagem: Qemb = {Q_emb:.2f} [kcal/dia]')
 
 # Calculo da carga térmica devido a iluminação
